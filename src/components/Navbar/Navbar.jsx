@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import { MdOutlineRestaurantMenu} from 'react-icons/md'
 
-impoet images from '../../constants/images';
+import images from '../../constants/images';
 
 import './Navbar.css';
 

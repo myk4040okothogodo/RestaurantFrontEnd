@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: var(--color-black) 
+    background: var(--color-black); 
     padding: 1rem 2rem;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .app__navbar-links li:hover {
-    color: var(--color-grey)
+    color: var(--color-grey);
 }
 
 .app__navbar-login {
@@ -55,7 +55,7 @@
 .app__navbar-login div {
     width: 1px;
     height: 30px;
-    background-color: var(--color-grey)
+    background-color: var(--color-grey);
 
 }
 
@@ -93,14 +93,14 @@
 .app__navbar-smallscreen_links li {
    margin: 2rem;
    cursor: pointer;
-   color: var(--color-golden)
+   color: var(--color-golden);
    font-size: 2rem;
    text-align: center;
    font-family : var(--font-base);
 }
 
 .app__navbar-smallscreen_links li:hover {
-    color: var(--color-white)
+    color: var(--color-white);
 
 }
 

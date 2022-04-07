@@ -5,8 +5,11 @@ import { Navbar } from './components';
 import './App.css';
 
 const App = () => (
+  <>
   <div>
-  {/*  <Navbar />
+    <Navbar />
+  </div>
+  <div >
     <Header />
     <AboutUs />
     <SpecialMenu />
@@ -15,8 +18,9 @@ const App = () => (
     <Laurels />
     <Gallery />
     <FindUs />
-    <Footer /> */}
+    <Footer /> 
   </div>
+  </>
 );
 
 export default App;
